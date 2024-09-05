@@ -1,0 +1,63 @@
+nav img{
+max-width:150px ;
+max-height:100px ;
+object-fit: scale-down ;
+border-radius: 20%;
+}
+
+#codes{
+width: 98%;
+min-height: 300px;
+border-radius: 15px;
+border: 2px solid rgb(137, 120, 18);
+}
+main{
+    text-align: center;
+    
+}
+
+#buttons{
+display: flex;
+justify-content: space-evenly;
+
+}
+#buttons button{
+    width: 40%;
+    border-radius: 20px;
+    border:0px;
+    padding: 5px;
+    margin: 10px;
+
+}
+#remove{
+background-color: rgb(248, 0, 0);
+color: aliceblue;
+
+}
+#play{
+background-color: rgb(14, 15, 14);
+color: aliceblue;
+
+
+}
+#title-result{
+padding: 10px;
+border-bottom: 2px solid rgb(137, 120, 18) ;
+margin: 8px 0px;
+font-weight: bold;
+}
+#result{
+    max-width: 100% !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
